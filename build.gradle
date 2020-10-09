@@ -23,7 +23,6 @@ if(JavaVersion.current() > JavaVersion.VERSION_1_9) {
 	}
 }
 
-allprojects {
-    group = 'de.intarsys.security'
-    version = '1.0'
-}
+group = 'de.intarsys.security'
+version = '1.0'
+
